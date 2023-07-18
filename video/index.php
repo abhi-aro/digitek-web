@@ -886,8 +886,11 @@ UAE's First B2B Services Procurement Platform | Digitek">
                   <p class="hero-sub-heading">Pay when milestones are met.</p><br>
                   <div class="row">
                     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                      <a href="#" data-toggle="modal" data-target="#registrationModal" class="btn btn-warning btn-primary">I need a
-                      Service Provider</a><br>
+                      <a href="https://dashboard.digitekservice.com/" class="btn btn-warning btn-primary">I need a
+                      Service Provider</a>
+                      <!-- <a href="#" data-toggle="modal" data-target="#registrationModal" class="btn btn-warning btn-primary">I need a
+                      Service Provider</a> -->
+                      <br>
                       <p class="hero-caption">Discover the perfect agency</p>
                       <p class="hero-caption">or expert for your project.</p><br>
                     </div>
