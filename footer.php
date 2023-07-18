@@ -15,7 +15,7 @@
                   href="mailto:info@digitekservice.com">info@digitekservice.com</a></h3>
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-6 col-md-6">
+              <!-- <div class="col-xs-12 col-sm-6 col-md-6">
                 <h3> </h3>
                 <div class="text-right footer-bottom m-row">
                   <ul class="copyright">
@@ -45,7 +45,7 @@
                       <i class="fa fa-youtube-play"></i></a></li>
                 </ul>
                 </div>
-              </div>
+              </div> -->
             </div>
             <div class="row footer-bottom m-row">
               <div class="col-xs-12 col-sm-12 col-md-12">
@@ -75,7 +75,7 @@
                   href="mailto:info@digitekservice.com">info@digitekservice.com</a></h3>
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-6 col-md-6">
+              <!-- <div class="col-xs-12 col-sm-6 col-md-6">
                 <h3> </h3>
                 <div class="text-center footer-bottom m-row">
                   <ul class="copyright">
@@ -105,7 +105,7 @@
                       <i class="fa fa-youtube-play"></i></a></li>
                 </ul>
                 </div>
-              </div>
+              </div> -->
             </div>
             <div class="row footer-bottom m-row">
               <div class="col-xs-12 col-sm-12 col-md-12">

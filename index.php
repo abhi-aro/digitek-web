@@ -1438,7 +1438,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
       </div>
     </div>
   </div>
-  <div class="section-8">
+  <!-- <div class="section-8">
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
@@ -1452,7 +1452,6 @@ UAE's First B2B Services Procurement Platform | Digitek">
                   <img src="images/media/our-client-1.jpg" alt="An Image" draggable="false">
                 </div>
                 <div class="slide-content">
-                  <!-- <h2>Header 1</h2> -->
                   <p>"It's a One Stop Solution for all our Digital hurdles. Worry free & makes life simple."</p>
                   <a href="#">Robert Rose, CTO</a>
                 </div>
@@ -1462,7 +1461,6 @@ UAE's First B2B Services Procurement Platform | Digitek">
                   <img src="images/media/our-client-2.png" alt="An Image" draggable="false">
                 </div>
                 <div class="slide-content">
-                  <!-- <h2>Header 2</h2> -->
                   <p>“Have customers review you and share what they had to say. Click to edit and add their testimonial.”</p>
                   <a href="#">Alexa Young, Product Manager</a>
                 </div>
@@ -1472,7 +1470,6 @@ UAE's First B2B Services Procurement Platform | Digitek">
                   <img src="images/media/our-client-3.jpg" alt="An Image" draggable="false">
                 </div>
                 <div class="slide-content">
-                  <!-- <h2>Header 3</h2> -->
                   <p>"A great testimonial can boost your brand’s image. Click to edit and add your own."</p>
                   <a href="#">Don Francis, Tech Lead</a>
                 </div>
@@ -1503,7 +1500,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <!-- <div class="section-8 d-b-sm">
     <div class="container">
       <div class="row">
@@ -1620,7 +1617,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
         list1.getElementsByClassName("owl-prev")[0].innerHTML = "<i style='color:white' class='fa fa-chevron-circle-left'><\/i>";
     }
   </script>
-  <div class="section-10">
+  <!-- <div class="section-10">
     <div class="container">
       <div class="row">
         <div class="col-xs-12">          
@@ -1750,7 +1747,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <hr class="hr2">
   <div class="section-5 sec-index">
     <div class="container">

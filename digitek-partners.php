@@ -1037,7 +1037,7 @@
         </script>
     
         <div class="section-12 d-n-sm">
-          <div class="container">
+          <!-- <div class="container">
             <div class="row">
               <div class="col-xs-12">
                 <div class="section-2-subsection">
@@ -1176,7 +1176,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
   
     
           <div class="section-12">
@@ -1363,7 +1363,7 @@
                             <p class="text-center">
                               <a href="/agency-stories/" target="_blank"  class="btn hero-buttons hero-buttons-p">Meet Our Agencies </a>
                             </p>
-                            <br><br>
+                            <!-- <br><br>
                             <p class="text-center" style="word-spacing: 10px;">
                               <a class="social"  target="_blank" href="https://www.linkedin.com/company/Digitek">
                                 <i class="fa fa-linkedin"></i>
@@ -1377,7 +1377,7 @@
                               <a class="social"  target="_blank" href="https://www.youtube.com/channel/UCjf-GCNvHP8_08TGfIy9KVw">
                                 <i class="fa fa-youtube-play"></i>
                               </a>
-                            <p>
+                            <p> -->
                           </div>
                         </div>
                       </div>

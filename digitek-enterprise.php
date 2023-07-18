@@ -1323,7 +1323,7 @@
                         <a href="#" data-toggle="modal" data-target="#scheduleDemoModal" class="btn hero-buttons hero-buttons-p">Request a Demo </a>
                       </p>
                       <!-- <br><br> -->
-                      <p class="text-center" style="word-spacing: 10px;">
+                      <!-- <p class="text-center" style="word-spacing: 10px;">
                         <a class="social"  target="_blank" href="https://www.linkedin.com/company/Digitek/">
                           <i class="fa fa-linkedin"></i>
                         </a>
@@ -1336,7 +1336,7 @@
                         <a class="social"  target="_blank" href="https://www.youtube.com/channel/UCjf-GCNvHP8_08TGfIy9KVw">
                           <i class="fa fa-youtube-play"></i>
                         </a>
-                      <p>
+                      <p> -->
                     </div>
                   </div>
                 </div>

@@ -17,9 +17,9 @@
           <div id="slide-navbar-collapse" class="navbar-collapse collapse text-right col-md-7 col-sm-9">
             <input type="hidden" name="is_authenticated" id="is_authenticated" value="False">
             <ul class="nav navbar-nav">
-              <li>
+              <!-- <li>
                 <a href="#" data-toggle="modal" data-target="#evisaModal" class="btn btn-primary header-join evisaModal">eVisa</a>
-              </li>
+              </li> -->
               <li>
                 <a href='index.php'>Home</a>
               </li>

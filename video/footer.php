@@ -3,14 +3,11 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-12">
-            <div class="row">
+            <!-- <div class="row">
               <div class=
               "col-xs-12 col-sm-6 col-md-6 footer-block wow fadeInLeft">
                 <div>
-                  <h2><b>Get in Touch</b></h2><!-- <small style=
-                  "color:#767A92;">CIN - U74999HR2018PTC075356,
-                  Address: B5, 701, World Spa West, Gurugram -
-                  122001.</small> -->
+                  <h2><b>Get in Touch</b></h2>
                   <h3><a style="color:#0099FF;font-weight:700"
                   href="mailto:info@digitekservice.com">info@digitekservice.com</a></h3>
                 </div>
@@ -46,7 +43,7 @@
                 </ul>
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="row footer-bottom m-row">
               <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="copyright" style="color:#767A92;">
@@ -75,7 +72,7 @@
                   href="mailto:info@digitekservice.com">info@digitekservice.com</a></h3>
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-6 col-md-6">
+              <!-- <div class="col-xs-12 col-sm-6 col-md-6">
                 <h3> </h3>
                 <div class="text-center footer-bottom m-row">
                   <ul class="copyright">
@@ -105,7 +102,7 @@
                       <i class="fa fa-youtube-play"></i></a></li>
                 </ul>
                 </div>
-              </div>
+              </div> -->
             </div>
             <div class="row footer-bottom m-row">
               <div class="col-xs-12 col-sm-12 col-md-12">
