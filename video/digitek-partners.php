@@ -282,7 +282,7 @@
         <h4><i class="fa fa-user-plus"></i>Register here</h4>
         <div class="row" style="margin-bottom: 20px" id='linkedin_usertype'>
           <div class="col-md-6 col-sm-6 col-xs-12">
-            <a href="#" data-id="client" class="btn btn-warning  hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">I need a Service Provider</a><br>
+            <a href="https://dashboard.digitekservice.com/" data-id="client" class="btn btn-warning  hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">I need a Service Provider</a><br>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
             <a href="#" data-id="vendor" class="btn btn-warning  hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">I am a Service Provider</a><br>

@@ -41,9 +41,12 @@
                 <!-- <a href='/resources/'>Resources</a> -->
               </li>
               <li>
-                <a href="#" data-toggle="modal" data-target="#registrationModal" class="btn btn-primary header-join">
+                <a href="https://dashboard.digitekservice.com/" class="btn btn-primary header-join">
                   I need a Service Provider &rarr;
                 </a>
+                <!-- <a href="#" data-toggle="modal" data-target="#registrationModal" class="btn btn-primary header-join">
+                  I need a Service Provider &rarr;
+                </a> -->
               </li>
               <li>
                 <a href="" data-toggle="modal" data-target="#loginModal">Login</a>
