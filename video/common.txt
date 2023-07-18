@@ -1,0 +1,39 @@
+digitekservice.com-copy same gallery in our home page client testimonials
+searchbox - autocomplete
+add sign and get started digitekservice.com- remove sales and marketing - done
+
+angency stroies change to 'services' below style copy page replica
+digitekservice.com/service-9 - copy block style ui in our page
+
+Menu  - Hover pe font color change to white
+
+
+Menu ke niche - Marquee line hatade
+
+
+DIGITEK in the press  - Pura dive hi hatade - Remove the compelete div
+
+
+Who comes on DIGITEK? - company ke logos hatade - Remove all company logos just keep the Text
+
+
+Our Team - ke naame -  Shubham Kakodkar - Founder, Dipika Valva - Co-Founder, Mahesh Jadhav - CTO
+
+
+Get in Touch -  remove address
+
+             -  email change to - info@digitekservice.com
+
+             -  Remove - Grievance redressal officer: Venkatesh Rangachari - venkateshr@DIGITEK.com
+https://tarekraafat.github.io/autoComplete.js/#/
+
+
+"It's a One Stop Solution for all our Digital hurdles. Worry free & makes life simple."
+Robert Rose, CTO
+
+
+“Have customers review you and share what they had to say. Click to edit and add their testimonial.”
+Alexa Young, Product Manager
+
+"A great testimonial can boost your brand’s image. Click to edit and add your own."
+Don Francis, Tech Lead
