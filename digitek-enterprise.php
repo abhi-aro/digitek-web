@@ -1320,7 +1320,7 @@
                     <p class="footer-heading-2 text-center">Experience Digitek Today</p>
                     <div class="row">     
                       <p class="text-center">
-                        <a href="#" data-toggle="modal" data-target="#scheduleDemoModal" class="btn hero-buttons hero-buttons-p">Request a Demo </a>
+                        <a href="https://dashboard.digitekservice.com/" data-toggle="modal" data-target="" class="btn hero-buttons hero-buttons-p">Request a Demo </a>
                       </p>
                       <!-- <br><br> -->
                       <!-- <p class="text-center" style="word-spacing: 10px;">

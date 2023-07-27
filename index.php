@@ -896,7 +896,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
                       <p class="hero-caption">or expert for your project.</p><br>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                      <a href="/Digitek-partners/" class="btn btn-warning btn-primary">Register as an Agency</a><br>
+                      <a href="https://dashboard.digitekservice.com/" class="btn btn-warning btn-primary">Register as an Agency</a><br>
                       <p class="hero-caption">Focus on qualified opportunities</p>
                       <p class="hero-caption">across the globe.</p><br>
                     </div>

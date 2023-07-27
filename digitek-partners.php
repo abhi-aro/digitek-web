@@ -824,13 +824,13 @@
                       <p class="hero-sub-heading-p">Focus on qualified opportunities across the globe.</p><br>
                       <div class="row">
                         <div class="col-md-6 col-sm-6 col-xs-12">
-                          <a href="#" data-toggle="modal"  data-user_type="vendor" data-target="#registrationModal" class="btn hero-buttons hero-buttons-p">Find New Business </a><br>
+                          <a href="https://dashboard.digitekservice.com/" data-toggle="modal"  data-user_type="vendor" data-target="" class="btn hero-buttons hero-buttons-p">Find New Business </a><br>
                         </div>
                       </div>
                       <br>
                       <div class="row">
                          <div class="col-md-6 col-sm-6 col-xs-12">
-                           <a href="/agency-stories/" target="_blank"  class="btn hero-buttons hero-buttons-p">Meet Our Agencies </a><br>
+                           <a href="https://dashboard.digitekservice.com/" class="btn hero-buttons hero-buttons-p">Meet Our Agencies </a><br>
                          </div>   
                       </div>
                     </div>
@@ -1358,10 +1358,10 @@
                           <p class="footer-heading-2 text-center">Join Digitek now</p>
                           <div class="row">     
                             <p class="text-center">
-                              <a href="#" data-toggle="modal"  data-user_type="vendor" data-target="#registrationModal" class="btn hero-buttons hero-buttons-p">Find New Business </a>
+                              <a href="https://dashboard.digitekservice.com/" data-toggle="modal"  data-user_type="vendor" data-target="" class="btn hero-buttons hero-buttons-p">Find New Business </a>
                             </p>
                             <p class="text-center">
-                              <a href="/agency-stories/" target="_blank"  class="btn hero-buttons hero-buttons-p">Meet Our Agencies </a>
+                              <a href="https://dashboard.digitekservice.com/" target="_blank"  class="btn hero-buttons hero-buttons-p">Meet Our Agencies </a>
                             </p>
                             <!-- <br><br>
                             <p class="text-center" style="word-spacing: 10px;">
