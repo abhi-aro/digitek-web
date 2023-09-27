@@ -885,6 +885,20 @@ UAE's First B2B Services Procurement Platform | Digitek">
                   <p class="hero-sub-heading">Get Proposals.</p>
                   <p class="hero-sub-heading">Free Project Monitoring.</p>
                   <p class="hero-sub-heading">Pay when milestones are met.</p><br>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12 margin-video-top margin-video-top-p sec-1-b2">
+                  <video id="Digitek-video" width="100%" height="100%" autoplay="" controls="" loop="" muted="">
+                    <source src="video/clideo_digitek-process.mp4" type="video/mp4"> Your browser does not support HTML5 video.
+                  </video>
+                  <br>
+                  <center>
+                    <h4><strong>How Digitek Works</strong></h4>
+                  </center>
+                  <div class="row">
+                    <br/>
+                    <br/>
+                    <br/>
+                  </div>
                   <div class="row">
                     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                       <a href="https://dashboard.digitekservice.com/" class="btn btn-warning btn-primary">I need a
@@ -901,15 +915,6 @@ UAE's First B2B Services Procurement Platform | Digitek">
                       <p class="hero-caption">across the globe.</p><br>
                     </div>
                   </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 margin-video-top margin-video-top-p sec-1-b2">
-                  <video id="Digitek-video" width="100%" height="100%" autoplay="" controls="" loop="" muted="">
-                    <source src="video/clideo_digitek-process.mp4" type="video/mp4"> Your browser does not support HTML5 video.
-                  </video>
-                  <br>
-                  <center>
-                    <h4><strong>How Digitek Works</strong></h4>
-                  </center>
                 </div>
               </div>
             </div>
