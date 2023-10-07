@@ -356,10 +356,10 @@ UAE's First B2B Services Procurement Platform | Digitek">
           <h4>Register here</h4>
           <div class="row" style="margin-bottom: 20px" id='linkedin_usertype'>
             <div class="col-md-6 col-sm-6 col-xs-12">
-              <a href="https://dashboard.digitekservice.com/" data-id="client" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">I need a Service Provider</a><br>
+              <a href="https://dashboard.digitekservice.com?user_type=0" data-id="client" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">I need a Service Provider</a><br>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
-              <a href="#" data-id="vendor" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">I am a Service Provider</a><br>
+              <a href="https://dashboard.digitekservice.com?user_type=1" data-id="vendor" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">I am a Service Provider</a><br>
             </div>
           </div>
         </div>
@@ -910,7 +910,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
                       <p class="hero-caption">or expert for your project.</p><br>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                      <a href="https://dashboard.digitekservice.com/" class="btn btn-warning btn-primary">Register as an Agency</a><br>
+                      <a href="https://dashboard.digitekservice.com?user_type=1" class="btn btn-warning btn-primary">Register as an Agency</a><br>
                       <p class="hero-caption">Focus on qualified opportunities</p>
                       <p class="hero-caption">across the globe.</p><br>
                     </div>

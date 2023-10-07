@@ -323,11 +323,11 @@ UAE's First B2B Services Procurement Platform | Digitek">
           <h4>Register here</h4>
           <div class="row" style="margin-bottom: 20px" id='linkedin_usertype'>
             <div class="col-md-6 col-sm-6 col-xs-12">
-              <a href="https://dashboard.digitekservice.com/" data-id="client" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">
+              <a href="https://dashboard.digitekservice.com?user_type=0" data-id="client" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">
               I need a Service Provider</a><br>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
-              <a href="#" data-id="vendor" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">
+              <a href="https://dashboard.digitekservice.com?user_type=1" data-id="vendor" class="btn btn-warning hero-buttons" style="font-size: 14px !important; width:185px !important; padding:6px !important">
               I am a Service Provider</a><br>
             </div>
           </div>

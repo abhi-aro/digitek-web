@@ -109,7 +109,7 @@ if(!isset($_SESSION['access_token']))
                 <!-- <a href='/resources/'>Resources</a> -->
               </li>
               <li>
-                <a href="https://dashboard.digitekservice.com/" class="btn btn-primary header-join">
+                <a href="https://dashboard.digitekservice.com?user_type=0" class="btn btn-primary header-join">
                   I need a Service Provider &rarr;
                 </a>
                 <!-- <a href="#" data-toggle="modal" data-target="#registrationModal" class="btn btn-primary header-join">
