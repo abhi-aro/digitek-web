@@ -3089,3 +3089,9 @@ section.slide .slider-container .drt-control{
 .login-modal-design .modal-dialog {
     width: 740px!important;
 }
+.bg_none{
+  background: none!important;
+}
+.section-7.bg_none{
+  padding: 30px 0px;
+}

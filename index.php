@@ -922,166 +922,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
         </div>
       </div>
     </div>
-    <div class="section-4 d-n-sm">
-      <div class="container">        
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="section-4-subsection">
-              <p class="section-heading">Agencies you can find on the Digitek Platform</p>
-              <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                  <div class="panel panel-default gradient-col">
-                    <div class="section-card-heading">Online Marketing Agencies</div>
-                    <hr class="hr1">
-                    <div class="panel-body">                      
-	                    <div class="col-md-6 col-sm-6 col-xs-6">
-          							<ul style="padding:0">
-          								<li class="section-card-li">
-                            <a href="/home/digital-strategy/" target="_blank">Digital Strategy</a>
-        							    </li>
-        							    <li class="section-card-li">
-        							      <a href="/home/performance-marketing/" target="_blank">Performance Marketing</a>
-        							    </li>
-        							    <li class="section-card-li">
-        							      <a href="/home/social-media-marketing/" target="_blank">Social Media Marketing</a>
-        							    </li>
-        							    <li class="section-card-li">
-        							      <a href="/home/content-marketing/" target="_blank">Content Marketing</a>
-        							    </li>
-        							    <li class="section-card-li">
-        							      <a href="/home/influencer-marketing/" target="_blank">Influencer Marketing</a>
-        							    </li>
-          							</ul>
-	                    </div>
-	                    <div class="col-md-6 col-sm-6 col-xs-6">
-	                      <ul>
-	                        <li class="section-card-li">
-	                          <a href="/home/search-marketing-seo-and-sem/" target="_blank">Search Marketing- SEO and SEM</a>
-	                        </li>
-	                        <li class="section-card-li">
-	                          <a href="/home/websites-and-app-development/" target="_blank">Websites and App Development</a>
-	                        </li>
-	                        <li class="section-card-li">
-	                          <a href="/home/linkedin-marketing-and-lead-generation/" target="_blank">Linkedin Marketing and Lead Generation</a>
-	                        </li>
-	                        <li class="section-card-li">
-	                          <a href="/home/marketplace-marketing/" target="_blank">Marketplace Marketing</a>
-	                        </li>
-	                      </ul>
-	                    </div>                        
-                    </div>                    
-                  </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-	                <div class="panel panel-default gradient-col">
-	                  <div class="section-card-heading">Offline Marketing Agencies</div>
-	                  <hr class="hr1">
-	                  <div class="panel-body">                    
-	                      <div class="col-md-6 col-sm-6 col-xs-6">
-	                      	<ul style="padding:0">
-	                      		<li class="section-card-li">
-    	                        <a href="/home/pr/" target="_blank">PR</a>
-    	                      </li>
-  		                      <li class="section-card-li">
-  		                        <a href="/home/market-research/" target="_blank">Market Research</a>
-  		                      </li>
-  		                      <li class="section-card-li">
-  		                        <a href="/home/consumer-insights/" target="_blank">Consumer Insights</a>
-  		                      </li>
-  		                      <li class="section-card-li">
-  		                        <a href="/home/btl-activations-and-events/" target="_blank">BTL Activations and Events</a>
-  		                      </li>
-  		                    </ul>
-	                      </div>
-	                      <div class="col-md-6 col-sm-6 col-xs-6">
-  		                    <ul>
-  		                      <li class="section-card-li">
-  		                        <a href="/home/outdoors-and-ooh/" target="_blank">Outdoors and OOH</a>
-  		                      </li>
-  		                      <li class="section-card-li">
-  		                        <a href="/home/packaging-design/" target="_blank">Packaging Design</a>
-  		                      </li>
-  		                      <li class="section-card-li">
-  		                        <a href="/home/creatives-for-offline-marketing-banners-posters/" target="_blank">
-                                Creatives for Offline Marketing- Banners/ Posters
-                              </a>
-  		                      </li>
-  		                    </ul>
-		                    </div>                      
-	                   </div>                  
-	                 </div>
-	               </div>
-	              <div class="col-md-6 col-sm-6 col-xs-12">
-                  <div class="panel panel-default gradient-col">
-                    <div class="section-card-heading">Sales Agencies</div>
-                    <hr class="hr1">
-                    <div class="panel-body">                  
-                      <div class="col-md-6 col-sm-6 col-xs-6">
-                      	<ul style="padding:0">
-    	                		<li class="section-card-li">
-    		                      <a href="/home/outsourced-sales-head/" target="_blank">Outsourced Sales Head</a>
-    		                    </li>
-    		                    <li class="section-card-li">
-    		                      <a href="/home/sales-strategy/" target="_blank">Sales Strategy</a>
-    		                    </li>
-    		                    <li class="section-card-li">
-    		                      <a href="/home/sales-training/" target="_blank">Sales Training</a>
-    		                    </li>
-    		                    <li class="section-card-li">
-    		                      <a href="/home/lead-generation-digital-telecalling/" target="_blank">Lead Generation - Digital/TeleCalling</a>
-    		                    </li>
-  	                  	</ul>
-                      </div>
-                      <div class="col-md-6 col-sm-6 col-xs-6">
-    	                  <ul>
-    	                    <li class="section-card-li">
-    	                      <a href="/home/b2b-sales/" target="_blank">B2B Sales</a>
-    	                    </li>
-    	                    <li class="section-card-li">
-    	                      <a href="/home/sales-process-design/" target="_blank">Sales Process Design</a>
-    	                    </li>
-    	                    <li class="section-card-li">
-    	                      <a href="/home/outsourced-sales-team/" target="_blank">Outsourced Sales Team</a>
-    	                    </li>
-    	                  </ul>
-  	                 </div>                    
-                    </div>                
-                  </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                  <div class="panel panel-default gradient-col">
-                    <div class="section-card-heading">Branding and Design Agencies</div>
-                    <hr class="hr1">
-                    <div class="panel-body">                      
-                      <div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul style="padding:0">
-                          <li class="section-card-li">
-                            <a href="/home/branding-and-proposition/" target="_blank">Branding and Proposition</a>
-                          </li>
-                          <li class="section-card-li">
-                            <a href="/home/creative-strategy/" target="_blank">Creative Strategy</a>
-                          </li>
-                          <li class="section-card-li">
-                            <a href="/home/video-production-and-marketing/" target="_blank">Video Production and Marketing</a>
-                          </li>
-                          <li class="section-card-li">
-                            <a href="/home/animation-videos/" target="_blank">Animation Videos</a>
-                          </li>
-                          <li class="section-card-li">
-                            <a href="/home/website-and-app-development/" target="_blank">Website and App UI/UX/Design</a>
-                          </li>
-                        </ul>
-                      </div>                  
-                    </div>
-                  </div>
-                </div>
-              </div>              
-            </div>            
-          </div>          
-        </div>
-      </div><br>
-      <div class="row" style="font-size: 22px;"></div>
-    </div>
+     
     <div class="section-4 d-b-sm">
       <div class="container">        
         <div class="row">
@@ -1242,66 +1083,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
       </div><br>
       <div class="row" style="font-size: 22px;"></div>
     </div>
-    <div class="section-4 truncate d-n-sm">
-      <div class="container">        
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="section-4-subsection">
-              <p class="section-heading">Explore Services</p>
-              <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12">                  
-                  <div class="panel-body inner-bg">
-                    <div class="section-card-heading">
-                      Ideation | Prototyping
-                    </div>
-                    <hr class="hr1"><br />
-                    <div class="inner-box">
-                      <img src="images/media/services/prototype-designer.jpg" alt="">
-                      <div class="caption full-width">
-                        <p class="hero-caption">Bring your Ideas to life with our Prototyping services on the go with DIGITEK</p>
-                      </div>
-                    </div>
-                  </div>                                     
-                </div>                
-                <div class="col-md-4 col-sm-4 col-xs-12">                  
-                  <div class="panel-body inner-bg">
-                    <div class="section-card-heading">
-                      Digital Services
-                    </div>
-                    <hr class="hr1"><br />
-                    <div class="inner-box">
-                      <img src="images/media/services/Digital-Artist.jpg" alt="">
-                      <div class="caption full-width">
-                        <p class="hero-caption">Avail of digital services on the go with DIGITEK</p>                        
-                      </div>
-                    </div>
-                  </div>                                     
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">                  
-                  <div class="panel-body inner-bg">
-                    <div class="section-card-heading">
-                      New Business
-                    </div>
-                    <hr class="hr1"><br />
-                    <div class="inner-box">
-                      <img src="images/media/services/New-business-partnership.jpg" alt="">
-                      <div class="caption full-width">
-                        <p class="hero-caption">Commence your business in UAE at AED999!!</p>                        
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="row read-more-sec">
-                <div class="col-xs-12">
-                  <p class="text-center"><a href="services.php" class="btn btn-warning btn-primary">Read More</a></p>
-                </div>  
-              </div> 
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> 
+      
     <div class="section-4 truncate d-b-sm">
       <div class="container">        
         <div class="row">
@@ -1430,13 +1212,52 @@ UAE's First B2B Services Procurement Platform | Digitek">
           <div class="section-2-subsection">
             <div class="row">
               <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="section-7">
-                  <p class="section-heading">Who comes on Digitek?</p>
-                  <p class="sub-heading-p">Procurement teams, Marketing teams, Founders, CXOs from thousands of companies globally come to find agencies for Social Media, Market Research, PR, Branding, Lead generation and much more!</p>
+                <div class="section-7 bg_none">
+                  <p class="section-heading">What is Digitek?</p>
+                  <p class="sub-heading-p">Digitek provides an end-to-end marketplace solution for businesses, offering a curated platform that connects businesses with the most suitable and reliable service providers. The platform is designed to cater to businesses of all sizes, allowing them to access customized business solutions at reasonable costs.</p>
                 </div>
                 <span style="display: none;">
-                  Procurement teams, Marketing teams, Founders, CXOs from thousands of companies globally come to find agencies for Social Media, Market Research, PR, Branding, Lead generation and much more!
+                  Digitek provides an end-to-end marketplace solution for businesses, offering a curated platform that connects businesses with the most suitable and reliable service providers. The platform is designed to cater to businesses of all sizes, allowing them to access customized business solutions at reasonable costs.
                 </span>
+              </div>
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="section-7 bg_none">
+                  <p class="section-heading">Data Driven Solutions</p>
+                  <p class="sub-heading-p">To create a personalized marketplace, Digitek utilizes an API integration that syncs with the interface. This API compares the top-performing metrics of businesses with the top 5 essential business metrics, enabling the platform to suggest plugins and resources tailored to each business's unique needs.</p>
+                </div>
+                <span style="display: none;">
+                  To create a personalized marketplace, Digitek utilizes an API integration that syncs with the interface. This API compares the top-performing metrics of businesses with the top 5 essential business metrics, enabling the platform to suggest plugins and resources tailored to each business's unique needs.
+                </span>
+              </div>
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="section-7 bg_none">
+                  <p class="section-heading">Ocean Of Solutions</p>
+                  <p class="sub-heading-p">The service providers or plugin providers listed on Digitek's marketplace go through a rigorous verification process. This process includes assessing their past sales history, current user base, and impact on business metrics. By doing so, only verified and high-quality service providers are featured on the platform, ensuring businesses can trust the expertise and reliability of these providers.</p>
+                </div>
+                <span style="display: none;">
+                  The service providers or plugin providers listed on Digitek's marketplace go through a rigorous verification process. This process includes assessing their past sales history, current user base, and impact on business metrics. By doing so, only verified and high-quality service providers are featured on the platform, ensuring businesses can trust the expertise and reliability of these providers.
+                </span>
+              </div>
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="section-7 bg_none">
+                  <p class="section-heading">Support & AMC</p>
+                  <p class="sub-heading-p">In addition to the verified service providers, Digitek also offers an "AMC" (Annual Maintenance Contract) Add-On purchase option. This ensures businesses have access to comprehensive support and assistance throughout their usage of the platform and the solutions procured from it. It streamlines the entire process, making it hassle-free for businesses.</p>
+                </div>
+                <span style="display: none;">
+                  In addition to the verified service providers, Digitek also offers an "AMC" (Annual Maintenance Contract) Add-On purchase option. This ensures businesses have access to comprehensive support and assistance throughout their usage of the platform and the solutions procured from it. It streamlines the entire process, making it hassle-free for businesses.
+                </span>
+              </div>
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="section-7 bg_none">
+                  <p class="section-heading">100% Secure Execution:</p>
+                  <p class="sub-heading-p">Moreover, Digitek's platform incorporates an ESCROW model, guaranteeing the safety of both service providers and seekers in terms of financial transactions. This adds an extra layer of security and peace of mind for businesses utilizing the platform.</p>
+
+                  <p class="sub-heading-p">Overall, Digitek's end-to-end marketplace solution enables businesses to efficiently and effectively find and connect with the right service providers, access customized solutions, and receive ongoing support. It simplifies the entire process, empowering businesses to optimize their operations and drive growth.</p>
+                </div>
+                <span style="display: none;">
+                  Moreover, Digitek's platform incorporates an ESCROW model, guaranteeing the safety of both service providers and seekers in terms of financial transactions. This adds an extra layer of security and peace of mind for businesses utilizing the platform.<
+                </span>
+                <span style="display: none;">Overall, Digitek's end-to-end marketplace solution enables businesses to efficiently and effectively find and connect with the right service providers, access customized solutions, and receive ongoing support. It simplifies the entire process, empowering businesses to optimize their operations and drive growth.</span>
               </div>
               <div class="col-md-12 col-sm-12 col-xs-12" style="padding:unset !important">
               </div>
@@ -1446,135 +1267,7 @@ UAE's First B2B Services Procurement Platform | Digitek">
       </div>
     </div>
   </div>
-  <!-- <div class="section-8">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <p class="section-heading text-center">Our Client Story</p>
-        </div>
-        <div class="col-xs-12">          
-            <div id="slider" class="slider-container">
-            <ul class="slider">
-              <li class="slide">
-                <div class="slide-bg masked">
-                  <img src="images/media/our-client-1.jpg" alt="An Image" draggable="false">
-                </div>
-                <div class="slide-content">
-                  <p>"It's a One Stop Solution for all our Digital hurdles. Worry free & makes life simple."</p>
-                  <a href="#">Robert Rose, CTO</a>
-                </div>
-              </li>
-              <li class="slide">
-                <div class="slide-bg masked">
-                  <img src="images/media/our-client-2.png" alt="An Image" draggable="false">
-                </div>
-                <div class="slide-content">
-                  <p>“Have customers review you and share what they had to say. Click to edit and add their testimonial.”</p>
-                  <a href="#">Alexa Young, Product Manager</a>
-                </div>
-              </li>
-              <li class="slide">
-                <div class="slide-bg masked">
-                  <img src="images/media/our-client-3.jpg" alt="An Image" draggable="false">
-                </div>
-                <div class="slide-content">
-                  <p>"A great testimonial can boost your brand’s image. Click to edit and add your own."</p>
-                  <a href="#">Don Francis, Tech Lead</a>
-                </div>
-              </li>
-            </ul>
-            <div class="slider-controls">
-              <div class="slide-nav">
-                <a href="#" class="prev">&larr;</a>
-                <a href="#" class="next">&rarr;</a>
-              </div>
-              <ul class="slide-list">
-                <li><a href="#">1</a></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-              </ul>
-            </div>
-            </div>
-            <div id="element"></div>
-            <script type="text/javascript">
-              $(function() {
-                $("#slider").blissSlider({
-                  auto: 1,
-                      transitionTime: 500,
-                      timeBetweenSlides: 4000
-                });
-              });
-            </script>                     
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <!-- <div class="section-8 d-b-sm">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <p class="section-heading text-center">Our Client Story</p>
-        </div>
-        <div class="col-xs-12">          
-            <div id="slider" class="slider-container">
-            <ul class="slider">
-              <li class="slide">
-                <div class="slide-bg masked">
-                  <img src="images/media/our-client-1.jpg" alt="An Image" draggable="false">
-                </div>
-                <div class="slide-content">
-                   
-                  <p>"It's a One Stop Solution for all our Digital hurdles. Worry free & makes life simple."</p>
-                  <a href="#">Robert Rose, CTO</a>
-                </div>
-              </li>
-              <li class="slide">
-                <div class="slide-bg masked">
-                  <img src="images/media/our-client-2.png" alt="An Image" draggable="false">
-                </div>
-                <div class="slide-content">
-                   
-                  <p>“Have customers review you and share what they had to say. Click to edit and add their testimonial.”</p>
-                  <a href="#">Alexa Young, Product Manager</a>
-                </div>
-              </li>
-              <li class="slide">
-                <div class="slide-bg masked">
-                  <img src="images/media/our-client-3.jpg" alt="An Image" draggable="false">
-                </div>
-                <div class="slide-content">
-                  
-                  <p>"A great testimonial can boost your brand’s image. Click to edit and add your own."</p>
-                  <a href="#">Don Francis, Tech Lead</a>
-                </div>
-              </li>
-            </ul>
-            <div class="slider-controls">
-              <div class="slide-nav">
-                <a href="#" class="prev">&larr;</a>
-                <a href="#" class="next">&rarr;</a>
-              </div>
-              <ul class="slide-list">
-                <li><a href="#">1</a></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-              </ul>
-            </div>
-            </div>
-            <div id="element"></div>
-            <script type="text/javascript">
-              $(function() {
-                $("#slider").blissSlider({
-                  auto: 1,
-                      transitionTime: 500,
-                      timeBetweenSlides: 4000
-                });
-              });
-            </script>                     
-        </div>
-      </div>
-    </div>
-  </div> -->
+ 
   <script>
     $('.testimonial-slider').owlCarousel({
       loop:true,
@@ -1625,187 +1318,8 @@ UAE's First B2B Services Procurement Platform | Digitek">
         list1.getElementsByClassName("owl-prev")[0].innerHTML = "<i style='color:white' class='fa fa-chevron-circle-left'><\/i>";
     }
   </script>
-  <!-- <div class="section-10">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">          
-          <p class="section-heading">Our Team</p>
-        </div>
-        <div class="col-xs-12 d-n-sm">
-          <div class="justify-content-md-center">
-            <div class="col-xs-auto col-sm-auto col-md-auto">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/shubham-kakodkar.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">SHUBHAM KAKODKAR</p>
-                  <p class="team-desig">Founder</p>
-                  <p data-block-key="dnl61" class="team-info">Ex | Nielsen, Dream 11, Fancoda, zepto and sugar cosmetics</p>
-                  <p data-block-key="ewhmj" class="team-info">Current - Product Manger at SUGAR COSMETICS</p>
-                  <p data-block-key="7nm7s"></p>
-                  <p data-block-key="hcfgi"></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-auto col-sm-auto col-md-auto">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/dipika-valva.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">DIPIKA VALVA</p>
-                  <p class="team-desig">Co-Founder</p>
-                  <p data-block-key="hx0oo" class="team-info">Ex | EXA, Skarma, Zapak, i-prospect, Cox and Kings,Remit to India, Sugar Cosmetics, VFS Global</p>
-                  <p data-block-key="31itu" class="team-info">Current - Global Online Business Lead at VFS Global</p>
-                  <p data-block-key="91dbj"></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-auto col-sm-auto col-md-auto">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/mahesh-jadhav.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">MAHESH JADHAV</p>
-                  <p class="team-desig">CTO</p>
-                  <p data-block-key="f42pa" class="team-info">Ex | STP - Pune, Capegemini, Pitney Bowes, Schlumberger, Dream 11, Zepto, MPL</p>
-                  <p data-block-key="xquf3" class="team-info">Current - Engineering Leadership at MPL</p>
-                  <p data-block-key="wxmjk"></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-auto col-sm-auto col-md-auto">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/nilesh-joshi.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">NILESH JOSHI</p>
-                  <p class="team-desig">PROJECT MANAGER</p>
-                  <p data-block-key="f42pa" class="team-info">Ex | Web1, Bitebank (Canada), Mobius, The Good Glamm, Sugar Cosmetics</p>
-                  <p data-block-key="xquf3" class="team-info">Current - Project Manager at SUGAR COSMETICS</p>
-                  <p data-block-key="wxmjk"></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 d-b-sm">
-          <div class="justify-content-md-center">
-            <div class="col-xs-12 col-sm-6 col-md-4">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/shubham-kakodkar.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">SHUBHAM KAKODKAR</p>
-                  <p class="team-desig">Founder</p>
-                  <p data-block-key="dnl61" class="team-info">Ex | Nielsen, Dream 11, Fancoda, zepto and sugar cosmetics</p>
-                  <p data-block-key="ewhmj" class="team-info">Current - Product Manger at SUGAR COSMETICS</p>
-                  <p data-block-key="7nm7s"></p>
-                  <p data-block-key="hcfgi"></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/dipika-valva.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">DIPIKA VALVA</p>
-                  <p class="team-desig">Co-Founder</p>
-                  <p data-block-key="hx0oo" class="team-info">Ex | EXA, Skarma, Zapak, i-prospect, Cox and Kings,Remit to India, Sugar Cosmetics, VFS Global</p>
-                  <p data-block-key="31itu" class="team-info">Current - Global Online Business Lead at VFS Global</p>
-                  <p data-block-key="91dbj"></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/mahesh-jadhav.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">MAHESH JADHAV</p>
-                  <p class="team-desig">CTO</p>
-                  <p data-block-key="f42pa" class="team-info">Ex | STP - Pune, Capegemini, Pitney Bowes, Schlumberger, Dream 11, Zepto, MPL</p>
-                  <p data-block-key="xquf3" class="team-info">Current - Engineering Leadership at MPL</p>
-                  <p data-block-key="wxmjk"></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-              <div class="panel our-team-bg">
-                <div class="panel-body">
-                  <div class="team-pic">
-                    <img class="img-responsive" src="images/media/nilesh-joshi.jpeg" alt="banner">
-                  </div>
-                  <p class="team-name">NILESH JOSHI</p>
-                  <p class="team-desig">PROJECT MANAGER</p>
-                  <p data-block-key="f42pa" class="team-info">Ex | Web1, Bitebank (Canada), Mobius, The Good Glamm, Sugar Cosmetics</p>
-                  <p data-block-key="xquf3" class="team-info">Current - Project Manager at SUGAR COSMETICS</p>
-                  <p data-block-key="wxmjk"></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <hr class="hr2">
-  <div class="section-5 sec-index">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 col-md-9 col-sm-9">
-          <p class="section-heading">Why Digitek</p>
-        </div>
-        <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-              <p class="font-22">
-                <span style="color:#333 !important;">
-                  To solve your business problems any agency will not do. You want the agency right for your <b>industry</b>, your <b>business</b>,your <b>size</b>, your <b>budget</b>, your<b>geography</b>. You want transparency, reliability,no-bias.
-                </span>
-              </p>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
-              <div class="panel">
-                <div class="panel-body">
-                  <span class="badge">1</span>
-                  <h3 class="why-heading">4500+ Projects</h3>
-                  <p class="why-text">
-                    Across industries, in B2C and B2B. Over 20 service lines used.</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
-              <div class="panel">
-                <div class="panel-body">
-                  <span class="badge">2</span>
-                  <h3 class="why-heading">1000+ Agencies</h3>
-                  <p class="why-text">
-                    So you're always presented with the agency that's the best fit for you.</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
-              <div class="panel">
-                <div class="panel-body">
-                  <span class="badge">3</span>
-                  <h3 class="why-heading">Pay when milestones are met.</h3>
-                  <p class="why-text">Digitek takes client payment into an escrow and pays the agency when milestones are met.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+   
+   
   <hr class="hr2">
   <style>
     body {margin-top: 0rem !important;}
